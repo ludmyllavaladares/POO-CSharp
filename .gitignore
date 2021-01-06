@@ -360,3 +360,6 @@ Pasta de trabalho # Ionide (ferramentas de código F # VS de plataforma cruzada)
 
 # Fody - esquema XML gerado automaticamente
 FodyWeavers.xsd
+
+obj/
+bin/
